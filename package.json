@@ -1,0 +1,20 @@
+{
+  "name": "leaflet-control-cartoscale",
+  "version": "1.0.0",
+  "description": "Show the cartographic scale on your Leaflet map",
+  "main": "dist/leaflet-control-cartoscale.js",
+  "style": "dist/leaflet-control-cartoscale.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenInfo-Network/L.Control.CartographicScale.git"
+  },
+  "author": "GreenInfo Network <gin@greeninfo.org> (http://www.greeninfo.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreenInfo-Network/L.Control.CartographicScale/issues"
+  },
+  "homepage": "https://github.com/GreenInfo-Network/L.Control.CartographicScale"
+}

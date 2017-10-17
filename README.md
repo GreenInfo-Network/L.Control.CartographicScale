@@ -6,6 +6,28 @@ https://github.com/GreenInfo-Network/L.Control.CartographicScale
 
 http://greeninfo-network.github.io/L.Control.CartographicScale
 
+
+# Installation
+
+Download the release and unpack it, or install it via package manager:
+* `npm i leaflet-control-cartoscale`
+
+Include the CSS and JS files using tags as usual:
+```
+
+<script type="text/javascript" src="leaflet-control-cartoscale/dist/leaflet-control-cartoscale.js"></script>
+<link rel="stylesheet" type="text/css" href="leaflet-control-cartoscale/dist/leaflet-control-cartoscale.css" />
+```
+
+Or `require` them:
+```
+require('leaflet-control-accordionlegend/dist/leaflet-control-cartoscale.js');
+require('leaflet-control-accordionlegend/dist/leaflet-control-cartoscale.css');
+```
+
+
+# Example of Usage
+
 ```
     new L.Control.CartographicScale({
         text: 'Map scale'
